@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="MiniMes.Api/MiniMes.Api.csproj" />
   <Project Path="MiniMes.Core/MiniMes.Core.csproj" />
+  <Project Path="MiniMes.Infrastructure/MiniMes.Infrastructure.csproj" />
   <Project Path="MiniMes.Tests/MiniMes.Tests.csproj" />
 </Solution>
